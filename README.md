@@ -1,7 +1,7 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({tex2jax: { inlineMath: [['$', '$']]}, messageStyle: "none" });
-</script>
+</script> -->
 
 <!-- <b><font size=5 color=red face="华文彩云">华文彩云</font></b> -->
 # <b><center><font size=20 face="黑体">加速度计的椭球校准</center></font></b>
